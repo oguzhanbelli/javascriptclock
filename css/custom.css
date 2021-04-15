@@ -1,0 +1,45 @@
+body {
+    background: black;
+  }
+  .card{
+      width: 60%;
+      height: 60%;
+      margin: 0 auto; 
+      float: none;
+      margin-top: 20px; 
+
+  }
+  
+  .clock {
+    position: relative;
+    text-align: center;
+    color: #f1efec;
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text1 {
+    position: relative;
+    text-align: center;
+    color: #eceae7;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+   img {
+       margin-top: 50px;
+       width: 17%;
+  }
